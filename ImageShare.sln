@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageShare.Web", "ImageShare.Web\ImageShare.Web.csproj", "{EFD8175C-422D-4DA9-AF4D-EA621C53707D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageShare.Logic", "ImageShare.Logic\ImageShare.Logic.csproj", "{678F7244-E8E4-430A-8267-3F93B68D72A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageShare.Data", "ImageShare.Data\ImageShare.Data.csproj", "{DADCBA2A-2AA1-4614-A373-CFD196C5A853}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageShare.AuthData", "ImageShare.AuthData\ImageShare.AuthData.csproj", "{4D8FC48F-013F-4A5B-8149-B1DF296C7DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFD8175C-422D-4DA9-AF4D-EA621C53707D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD8175C-422D-4DA9-AF4D-EA621C53707D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD8175C-422D-4DA9-AF4D-EA621C53707D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD8175C-422D-4DA9-AF4D-EA621C53707D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{678F7244-E8E4-430A-8267-3F93B68D72A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678F7244-E8E4-430A-8267-3F93B68D72A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678F7244-E8E4-430A-8267-3F93B68D72A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678F7244-E8E4-430A-8267-3F93B68D72A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DADCBA2A-2AA1-4614-A373-CFD196C5A853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DADCBA2A-2AA1-4614-A373-CFD196C5A853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DADCBA2A-2AA1-4614-A373-CFD196C5A853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DADCBA2A-2AA1-4614-A373-CFD196C5A853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D8FC48F-013F-4A5B-8149-B1DF296C7DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D8FC48F-013F-4A5B-8149-B1DF296C7DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D8FC48F-013F-4A5B-8149-B1DF296C7DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D8FC48F-013F-4A5B-8149-B1DF296C7DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
